@@ -11,7 +11,7 @@ CURRENT PLANS:
 - can put hats/helmets on pigeons
 
 THE PIGEONS:
-- rock doves/everyday domestic pigeons.
+- rock doves/everyday domestic pigeons. (model + default and "meep" textures courtesy of leaf4e (https://www.tumblr.com/leaf4e))
 
   - spawn in villages, mansions, and pillager outposts
 
@@ -54,6 +54,6 @@ THE ITEMS:
   - maybe the player can craft a really comfy bed that lets them sleep through the night even if there are monsters nearby?
   - should have at least one more use i think ..
 - new plants to feed and/or tame the different pigeons
-  - corn and associated items (corn on the cob, kernels, popcorn)
-  - unnamed mushroom dodo fruit
-  - unnamed king dodo fruit
+  - corn and associated items (corn on the cob and popcorn textures courtesy of ghostii404 (https://ghostii404.carrd.co/), corn kernel texture is by me)
+  - undecided mushroom dodo fruit
+  - undecided king dodo fruit
