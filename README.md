@@ -6,9 +6,11 @@ CURRENT PLANS:
 - 
 - can give pigeons decorational pigeon harnesses/pants using carpet, just like llamas!
 - roost/nest block for pigeons to chill when they arent making deliveries
-- nicknaming a rock dove "meep" or "martha" will change its texture to my own bird from real life and the extinct passenger pigeon respectively
+- naming a rock dove "meep" or "martha" will change its texture to my own bird from real life and the extinct passenger pigeon respectively
+- "finfin" and "archimedes" nametag textures also
 - terrible pigeon nests when bred. we all know them
 - can put hats/helmets on pigeons
+- throwable pigeons(?) (suggested by my friend percycoolguy with a tf2 gif. thanks man)
 
 THE PIGEONS:
 - rock doves/everyday domestic pigeons. (model + default and "meep" textures courtesy of leaf4e (https://www.tumblr.com/leaf4e))
