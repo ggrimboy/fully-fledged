@@ -2,7 +2,13 @@ Welcome to Fully Fledged! a work-in-progress forge mod that adds pigeons into th
 
 feel free to comment on any features/potential balance issues; this is my first ever mod and i want it to be fun AND playable!!
 
-CURRENT PLANS/PIGEONS:
+CURRENT PLANS:
+- 
+- can give pigeons decorational pigeon harnesses/pants using carpet, just like llamas!
+- roost/nest block for pigeons to chill when they arent making deliveries
+- nicknaming a rock dove "meep" or "martha" will change its texture to my own bird from real life and the extinct passenger pigeon respectively
+
+THE PIGEONS:
 - rock doves/everyday domestic pigeons.
 
   - spawn in villages, mansions, and pillager outposts
@@ -38,3 +44,6 @@ CURRENT PLANS/PIGEONS:
   - alternative food source to chorus fruit
 
   - cannot make deliveries
+
+THE ITEMS:
+- i dont knoooww [scratches head]
