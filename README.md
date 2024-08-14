@@ -7,6 +7,8 @@ CURRENT PLANS:
 - can give pigeons decorational pigeon harnesses/pants using carpet, just like llamas!
 - roost/nest block for pigeons to chill when they arent making deliveries
 - nicknaming a rock dove "meep" or "martha" will change its texture to my own bird from real life and the extinct passenger pigeon respectively
+- terrible pigeon nests when bred. we all know them
+- can put hats/helmets on pigeons
 
 THE PIGEONS:
 - rock doves/everyday domestic pigeons.
@@ -46,4 +48,10 @@ THE PIGEONS:
   - cannot make deliveries
 
 THE ITEMS:
-- i dont knoooww [scratches head]
+- pigeon feathers
+  - maybe the player can craft a really comfy bed that lets them sleep through the night even if there are monsters nearby?
+  - should have at least one more use i think ..
+- new plants to feed and/or tame the different pigeons
+  - corn + popcorn
+  - unnamed mushroom dodo fruit
+  - unnamed king dodo fruit
