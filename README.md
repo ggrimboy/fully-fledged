@@ -20,7 +20,9 @@ THE PIGEONS:
 
   - spawn on mushroom islands
 
-  - can scare off spiders and do a funny dance
+  - can scare off spiders
+
+  - dances to music like parrots
 
   - cannot make deliveries
 - screaming pouter pigeons.
@@ -52,6 +54,6 @@ THE ITEMS:
   - maybe the player can craft a really comfy bed that lets them sleep through the night even if there are monsters nearby?
   - should have at least one more use i think ..
 - new plants to feed and/or tame the different pigeons
-  - corn + popcorn
+  - corn and associated items (corn on the cob, kernels, popcorn)
   - unnamed mushroom dodo fruit
   - unnamed king dodo fruit
