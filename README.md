@@ -45,17 +45,17 @@ THE PIGEONS:
 
   - sometimes walk straight off into the abyss but thats ok
 
-  - if tamed/fed its favorite food (dunno which to go with yet), it will sit on the players head for a while and rescue them if they accidentally fall into the void
+  - if fed its favorite food, it will sit on the players head for a while and rescue them if they accidentally fall into the void
 
   - alternative food source to chorus fruit
 
   - cannot make deliveries
 
 THE ITEMS:
-- pigeon feathers
+- pigeon feathers/down
   - maybe the player can craft a really comfy bed that lets them sleep through the night even if there are monsters nearby?
   - should have at least one more use i think ..
 - new plants to feed and/or tame the different pigeons
-  - corn and associated items (corn on the cob and popcorn textures courtesy of ghostii404 (https://ghostii404.carrd.co/), corn kernel texture is by me)
-  - undecided mushroom dodo fruit
+  - corn and associated items (corn on the cob and popcorn textures courtesy of ghostii404 (https://ghostii404.carrd.co/), corn kernel and grilled corn textures are by me)
+  - cashew trees and nuts for mushroom dodos
   - undecided king dodo fruit
