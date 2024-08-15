@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "fullyfledged:corn"
+    }
+  ],
+  "result": {
+    "item": "fullyfledged:kernel",
+    "count": 3
+  }
+}
