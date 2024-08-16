@@ -57,5 +57,5 @@ THE ITEMS:
   - should have at least one more use i think ..
 - new plants to feed and/or tame the different pigeons
   - corn and associated items (corn on the cob and popcorn textures courtesy of ghostii404 (https://ghostii404.carrd.co/), corn kernel and grilled corn textures are by me)
-  - cashew trees and nuts for mushroom dodos
-  - undecided king dodo fruit
+  - cashew trees and nuts for mushroom dodos (log texture by ghostii404)
+  - endermite nests and endermite food item for king dodos
