@@ -1,4 +1,4 @@
-Welcome to Fully Fledged! a work-in-progress forge mod that adds pigeons into the game. (CURRENTLY DOES NOT HAVE ANY FEATURES, JUST THE MOST BASIC OF CODE)
+Welcome to Fully Fledged! a work-in-progress forge mod that adds pigeons into the game. (CURRENTLY DOES NOT HAVE ANYTHING EXCEPT CORN ITEMS)
 
 feel free to comment on any features/potential balance issues; this is my first ever mod and i want it to be fun AND playable!!
 
